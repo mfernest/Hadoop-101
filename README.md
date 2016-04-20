@@ -1,20 +1,22 @@
 # Hadoop-101
-Introductory material for learning Haddop
+Introductory material for learning Hadoop
 
-Using this guide, you'll apply your fundamental understanding of Hadoop through some lab-driven work. Before each set of lab steps, we'll discuss some fundamental points to get you started. 
+Using this guide, you'll apply your fundamental understanding of Hadoop through some lab-driven work. 
 
-To keep things simple, we'll access a Hadoop cluster using HUE, a portal service that offers graphic user interfaces for:
-* HDFS user operations
-* Submitting and browsing a MapReduce job
-* Browisng file data in a relational model
+Before each set of lab steps, we'll discuss some fundamentals to get you started. 
+
+To keep things simple, your labs access a Hadoop cluster using HUE, a portal service that supplies browser-based interfaces for:
+* HDFS file operations
+* Submitting and browsing jobs
+* Browsing file data via a relational model
 * Running queries using Hive
 * Running jobs using Pig
 
-HUE offers a lot more than this, but for a half-day session with many attendees, we'll keep it simple and leave plenty of time for questions. This sessions will run from 1- 4:30 PM. Since we have many people in attendance, we'll combine lab and break time. In class, we'll set specific times to begin new material.
+HUE offers even more, but for a half-day session with dozens of attendees, we'll keep it simple and leave plenty of time for questions. This session runs for 3.5 hours. With so many people in attendance, we'll combine lab and break times. LOnce we get to this time, we'll declare a time to start a discussion or demo.
 
-By the end of this session, you'll have had time to review your Hadoop knowledge, ask questions about the way it works, and work on a small Hadoop cluster that is running in AWS.
+By the end of this session, you'll have had time to review your Hadoop learning, ask questions, and try things out on a small Hadoop cluster running in AWS. Our lab clusters are runring on Cloudera's Distribution of Hadoop (CDH) version 5.7.0.  
 
-Your guides for today are:
+Your guides for today's session are:
 * Michael Ernest, Senior Learning Architect, Cloudera
   * mfernest@cloudera.com
 * Nicholas Preztak, Sales Engineer, Cloudera
