@@ -3,10 +3,11 @@
 ### Let's cut right to the chase!
 
 * Hadoop offers a low-cost approach to storing and processing large amounts of data. 
-* Perhaps you're already doing something big with a lot of data
+* Perhaps you're already doing something big with a lot of data, but
   * The cost of storing and processing that data may limit the amount you keep and use
   * The various systems you use may be difficult to integrate and coordinate
-  * The types of systems you use may impose constraints without much benefit
+  * The types of systems you use may impose constraints that don't much benefit
+    * E.g., data kept in an RDBMS but isn't fully relational in form
 
 --
 
